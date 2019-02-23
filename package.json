@@ -1,0 +1,27 @@
+{
+  "name": "sparragus",
+  "version": "0.0.1",
+  "description": "About Richard B. Kaufman López",
+  "license": "MIT",
+  "repository": "sparragus/sparragus",
+  "author": {
+    "name": "Richard B. Kaufman López",
+    "email": "richardbkaufman@gmail.com",
+    "url": "https://richardkaufman.xyz"
+  },
+  "bin": {
+    "sparragus": "src/index.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "sparragus",
+    "richard kaufman",
+    "pugs"
+  ]
+}
